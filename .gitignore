@@ -1,0 +1,11 @@
+   # raw and prepared data (downloaded automatically)
+   data/
+   *.pkl
+   # trained models (large; only needed for the test evaluation)
+   outputs/eksperymenty/modele/
+   # Python / Jupyter
+   __pycache__/
+   *.pyc
+   .ipynb_checkpoints/
+   .venv/
+   venv/
