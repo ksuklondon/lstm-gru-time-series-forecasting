@@ -253,6 +253,6 @@ Datasets are downloaded to `data/` on first use. Seeds 42–44 (42–51 for Air 
 
 **Kalina Staniszewska** and **Agnieszka Michałowska**. Project 2A of the Deep Learning laboratory, 2026/2027.
 
-## License
+## Data sources
 
-Code released under the [MIT License](LICENSE). The datasets belong to their respective owners (Max Planck Institute for Biogeochemistry, UCI Machine Learning Repository, Box & Jenkins via Rdatasets) and are downloaded from the original sources.
+The datasets belong to their respective owners (Max Planck Institute for Biogeochemistry, UCI Machine Learning Repository, Box & Jenkins via Rdatasets) and are downloaded from the original sources.
