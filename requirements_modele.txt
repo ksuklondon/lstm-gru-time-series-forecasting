@@ -1,0 +1,4 @@
+# Projekt 2A - dodatkowe pakiety do treningu modeli (oprocz requirements.txt).
+# Python 3.10-3.13. Na Windows instalujemy zwykly pakiet tensorflow (CPU).
+tensorflow>=2.16
+psutil>=5.9

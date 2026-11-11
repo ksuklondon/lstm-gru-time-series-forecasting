@@ -1,0 +1,15 @@
+{
+ "Python":"3.12.10",
+ "TensorFlow":"2.21.0",
+ "Keras":"3.15.1",
+ "numpy":"2.5.4",
+ "pandas":"3.1.0",
+ "scikit-learn":"1.9.1",
+ "system":"Windows-11-10.0.26200-SP0",
+ "procesor":"Intel64 Family 6 Model 170 Stepping 4, GenuineIntel",
+ "rdzenie":22,
+ "RAM [GB]":31.6,
+ "GPU":[
+
+ ]
+}
